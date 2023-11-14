@@ -16,10 +16,8 @@ optimize matrix multiply with int64
 
 ```shell
 #overview
-perf stat ./my_mat_mul <N>
-#cache miss
-perf stat -e LLC-loads,LLC-load-misses,LLC-stores,LLC-store-misses,LLC-prefetch-misses ./my_mat_mul <N>
-#detail with assemble
+perf stat -d -d -d ./my_mat_mul <N>
+#detail
 perf record ./my_mat_mul <N>
 perf report
 ```
