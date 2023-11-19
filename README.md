@@ -25,7 +25,7 @@ perf report
 the test log run at nus soc cluster xcne node with xeon gold 6230.
 Run with command:
 ```shell
-perf stat -d -d -d ./mat_mul <N>
+perf stat -d -d -d -r 5 ./mat_mul <N>
 ```
 where N varies [1000, 10000, 1000]
 
