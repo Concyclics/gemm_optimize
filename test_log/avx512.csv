@@ -1,0 +1,161 @@
+size,metric,count,perf,unit
+1000,task-clock,536.32,0.899,CPUs utilized
+1000,context-switches,4,7.305,/sec
+1000,cpu-migrations,0,0.000,/sec
+1000,page-faults,"7,877",14.385,K/sec
+1000,cycles,"933,145,619",1.704,GHz
+1000,instructions,"1,179,359,559",1.25,insn per cycle
+1000,branches,"130,868,300",238.990,M/sec
+1000,branch-misses,"1,018,876",0.78%,of all branches
+1000,L1-dcache-loads,"254,244,985",464.298,M/sec
+1000,L1-dcache-load-misses,"120,886,299",47.88%,of all L1-dcache accesses
+1000,LLC-loads,"23,424,381",42.777,M/sec
+1000,LLC-load-misses,"1,854,965",7.66%,of all LL-cache accesses
+1000,dTLB-loads,"261,645,127",477.812,M/sec
+1000,dTLB-load-misses,"1,074,399",0.41%,of all dTLB cache accesses
+1000,iTLB-loads,"16,170",29.529,K/sec
+1000,iTLB-load-misses,"8,689",51.42%,of all iTLB cache accesses
+2000,task-clock,"5,474.80",0.992,CPUs utilized
+2000,context-switches,103,18.818,/sec
+2000,cpu-migrations,1,0.183,/sec
+2000,page-faults,"31,316",5.721,K/sec
+2000,cycles,"9,615,374,450",1.757,GHz
+2000,instructions,"9,165,029,315",0.95,insn per cycle
+2000,branches,"1,025,442,222",187.347,M/sec
+2000,branch-misses,"4,098,334",0.40%,of all branches
+2000,L1-dcache-loads,"2,038,789,980",372.484,M/sec
+2000,L1-dcache-load-misses,"1,036,969,626",50.92%,of all L1-dcache accesses
+2000,LLC-loads,"371,566,882",67.885,M/sec
+2000,LLC-load-misses,"324,655,493",86.75%,of all LL-cache accesses
+2000,dTLB-loads,"2,039,373,881",372.591,M/sec
+2000,dTLB-load-misses,"9,665,324",0.47%,of all dTLB cache accesses
+2000,iTLB-loads,"85,237",15.573,K/sec
+2000,iTLB-load-misses,"57,633",67.11%,of all iTLB cache accesses
+3000,task-clock,"21,264.73",0.998,CPUs utilized
+3000,context-switches,93,4.376,/sec
+3000,cpu-migrations,0,0.000,/sec
+3000,page-faults,"70,378",3.312,K/sec
+3000,cycles,"37,455,511,640",1.762,GHz
+3000,instructions,"30,902,194,835",0.83,insn per cycle
+3000,branches,"3,459,096,686",162.763,M/sec
+3000,branch-misses,"9,273,430",0.27%,of all branches
+3000,L1-dcache-loads,"6,847,349,006",322.193,M/sec
+3000,L1-dcache-load-misses,"6,777,221,306",98.94%,of all L1-dcache accesses
+3000,LLC-loads,"1,197,029,516",56.325,M/sec
+3000,LLC-load-misses,"1,129,765,292",94.45%,of all LL-cache accesses
+3000,dTLB-loads,"6,847,825,599",322.216,M/sec
+3000,dTLB-load-misses,"42,903,246",0.63%,of all dTLB cache accesses
+3000,iTLB-loads,"220,441",10.373,K/sec
+3000,iTLB-load-misses,"180,122",85.26%,of all iTLB cache accesses
+4000,task-clock,"51,127.89",0.997,CPUs utilized
+4000,context-switches,215,4.199,/sec
+4000,cpu-migrations,3,0.059,/sec
+4000,page-faults,"125,066",2.442,K/sec
+4000,cycles,"90,454,960,722",1.766,GHz
+4000,instructions,"73,011,775,067",0.81,insn per cycle
+4000,branches,"8,177,439,127",159.692,M/sec
+4000,branch-misses,"16,575,302",0.20%,of all branches
+4000,L1-dcache-loads,"16,245,230,466",317.243,M/sec
+4000,L1-dcache-load-misses,"16,059,869,796",98.91%,of all L1-dcache accesses
+4000,LLC-loads,"3,007,215,763",58.726,M/sec
+4000,LLC-load-misses,"2,920,323,481",96.93%,of all LL-cache accesses
+4000,dTLB-loads,"16,227,318,906",316.893,M/sec
+4000,dTLB-load-misses,"98,381,539",0.61%,of all dTLB cache accesses
+4000,iTLB-loads,"401,504",7.841,K/sec
+4000,iTLB-load-misses,"293,196",72.72%,of all iTLB cache accesses
+5000,task-clock,"101,569.37",1.002,CPUs utilized
+5000,context-switches,"2,262",22.357,/sec
+5000,cpu-migrations,0,0.000,/sec
+5000,page-faults,"195,380",1.931,K/sec
+5000,cycles,"179,560,044,546",1.775,GHz
+5000,instructions,"143,344,675,611",0.80,insn per cycle
+5000,branches,"16,117,921,488",159.308,M/sec
+5000,branch-misses,"26,100,897",0.16%,of all branches
+5000,L1-dcache-loads,"31,870,516,473",315.004,M/sec
+5000,L1-dcache-load-misses,"31,374,025,527",98.44%,of all L1-dcache accesses
+5000,LLC-loads,"6,085,055,248",60.144,M/sec
+5000,LLC-load-misses,"5,970,796,639",98.08%,of all LL-cache accesses
+5000,dTLB-loads,"31,885,735,192",315.155,M/sec
+5000,dTLB-load-misses,"189,260,520",0.59%,of all dTLB cache accesses
+5000,iTLB-loads,"664,528",6.568,K/sec
+5000,iTLB-load-misses,"456,778",66.76%,of all iTLB cache accesses
+6000,task-clock,"177,092.40",0.999,CPUs utilized
+6000,context-switches,902,5.090,/sec
+6000,cpu-migrations,4,0.023,/sec
+6000,page-faults,"281,314",1.587,K/sec
+6000,cycles,"315,233,784,876",1.779,GHz
+6000,instructions,"249,872,346,373",0.79,insn per cycle
+6000,branches,"28,211,492,458",159.193,M/sec
+6000,branch-misses,"37,827,054",0.13%,of all branches
+6000,L1-dcache-loads,"55,497,002,715",313.161,M/sec
+6000,L1-dcache-load-misses,"54,406,454,883",97.97%,of all L1-dcache accesses
+6000,LLC-loads,"10,739,659,057",60.602,M/sec
+6000,LLC-load-misses,"10,594,421,670",98.80%,of all LL-cache accesses
+6000,dTLB-loads,"55,593,637,518",313.706,M/sec
+6000,dTLB-load-misses,"323,568,708",0.58%,of all dTLB cache accesses
+6000,iTLB-loads,"958,007",5.406,K/sec
+6000,iTLB-load-misses,"550,266",55.17%,of all iTLB cache accesses
+7000,task-clock,"282,347.67",1.002,CPUs utilized
+7000,context-switches,"6,919",24.563,/sec
+7000,cpu-migrations,3,0.011,/sec
+7000,page-faults,"382,877",1.359,K/sec
+7000,cycles,"501,243,238,913",1.779,GHz
+7000,instructions,"397,685,597,621",0.79,insn per cycle
+7000,branches,"45,042,980,083",159.909,M/sec
+7000,branch-misses,"52,315,909",0.12%,of all branches
+7000,L1-dcache-loads,"88,369,852,342",313.726,M/sec
+7000,L1-dcache-load-misses,"86,251,028,448",97.64%,of all L1-dcache accesses
+7000,LLC-loads,"17,238,952,277",61.201,M/sec
+7000,LLC-load-misses,"17,078,081,662",98.86%,of all LL-cache accesses
+7000,dTLB-loads,"88,382,586,318",313.771,M/sec
+7000,dTLB-load-misses,"503,038,101",0.57%,of all dTLB cache accesses
+7000,iTLB-loads,"1,562,613",5.548,K/sec
+7000,iTLB-load-misses,"1,299,477",89.73%,of all iTLB cache accesses
+8000,task-clock,"419,432.28",1.011,CPUs utilized
+8000,context-switches,"2,218",5.348,/sec
+8000,cpu-migrations,0,0.000,/sec
+8000,page-faults,"500,065",1.206,K/sec
+8000,cycles,"752,333,810,775",1.814,GHz
+8000,instructions,"598,943,457,482",0.81,insn per cycle
+8000,branches,"68,263,911,637",164.609,M/sec
+8000,branch-misses,"67,870,364",0.10%,of all branches
+8000,L1-dcache-loads,"133,258,642,103",321.334,M/sec
+8000,L1-dcache-load-misses,"128,813,212,614",96.74%,of all L1-dcache accesses
+8000,LLC-loads,"26,255,071,568",63.310,M/sec
+8000,LLC-load-misses,"26,079,546,529",98.91%,of all LL-cache accesses
+8000,dTLB-loads,"133,163,389,789",321.104,M/sec
+8000,dTLB-load-misses,"726,386,751",0.55%,of all dTLB cache accesses
+8000,iTLB-loads,"1,888,545",4.554,K/sec
+8000,iTLB-load-misses,"1,077,858",55.89%,of all iTLB cache accesses
+9000,task-clock,"601,606.27",1.005,CPUs utilized
+9000,context-switches,"6,876",11.492,/sec
+9000,cpu-migrations,26,0.043,/sec
+9000,page-faults,"632,878",1.058,K/sec
+9000,cycles,"1,077,553,574,090",1.801,GHz
+9000,instructions,"856,941,954,524",0.80,insn per cycle
+9000,branches,"97,895,091,121",163.621,M/sec
+9000,branch-misses,"87,340,035",0.09%,of all branches
+9000,L1-dcache-loads,"190,549,153,519",318.482,M/sec
+9000,L1-dcache-load-misses,"183,494,123,838",96.62%,of all L1-dcache accesses
+9000,LLC-loads,"37,232,597,842",62.230,M/sec
+9000,LLC-load-misses,"37,030,857,839",99.35%,of all LL-cache accesses
+9000,dTLB-loads,"190,614,005,373",318.590,M/sec
+9000,dTLB-load-misses,"1,062,960,238",0.56%,of all dTLB cache accesses
+9000,iTLB-loads,"2,588,855",4.327,K/sec
+9000,iTLB-load-misses,"2,121,314",83.34%,of all iTLB cache accesses
+10000,task-clock,"814,163.04",0.994,CPUs utilized
+10000,context-switches,"5,252",6.415,/sec
+10000,cpu-migrations,10,0.012,/sec
+10000,page-faults,"782,850",956.276,/sec
+10000,cycles,"1,454,626,393,295",1.777,GHz
+10000,instructions,"1,160,285,466,672",0.79,insn per cycle
+10000,branches,"131,458,392,933",160.581,M/sec
+10000,branch-misses,"107,323,674",0.08%,of all branches
+10000,L1-dcache-loads,"258,072,972,095",315.244,M/sec
+10000,L1-dcache-load-misses,"251,323,665,347",96.69%,of all L1-dcache accesses
+10000,LLC-loads,"51,059,378,720",62.371,M/sec
+10000,LLC-load-misses,"50,808,024,651",99.45%,of all LL-cache accesses
+10000,dTLB-loads,"258,084,601,332",315.259,M/sec
+10000,dTLB-load-misses,"1,434,179,589",0.55%,of all dTLB cache accesses
+10000,iTLB-loads,"3,362,401",4.107,K/sec
+10000,iTLB-load-misses,"2,374,406",72.85%,of all iTLB cache accesses

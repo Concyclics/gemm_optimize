@@ -1,0 +1,899 @@
+my_mat_mul.c: In function ‘main’:
+my_mat_mul.c:95:14: error: redefinition of ‘m2_block’
+   95 |     int64_t *m2_block = malloc(N * N * sizeof(int64_t));
+      |              ^~~~~~~~
+my_mat_mul.c:79:14: note: previous definition of ‘m2_block’ with type ‘int64_t *’ {aka ‘long int *’}
+   79 |     int64_t *m2_block = malloc(N * N * sizeof(int64_t));
+      |              ^~~~~~~~
+my_mat_mul.c:99:14: error: redefinition of ‘m2_block’
+   99 |     int64_t *m2_block = malloc(N * N * sizeof(int64_t));
+      |              ^~~~~~~~
+my_mat_mul.c:95:14: note: previous definition of ‘m2_block’ with type ‘int64_t *’ {aka ‘long int *’}
+   95 |     int64_t *m2_block = malloc(N * N * sizeof(int64_t));
+      |              ^~~~~~~~
+my_mat_mul.c:100:14: error: redefinition of ‘m2_block’
+  100 |     int64_t *m2_block = malloc(N * N * sizeof(int64_t));
+      |              ^~~~~~~~
+my_mat_mul.c:99:14: note: previous definition of ‘m2_block’ with type ‘int64_t *’ {aka ‘long int *’}
+   99 |     int64_t *m2_block = malloc(N * N * sizeof(int64_t));
+      |              ^~~~~~~~
+Multiplication 2 finished in   0.83 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.83 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.83 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.83 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.83 s
+Multiplication 2 finished in   7.38 s
+Multiplication 2 finished in   7.41 s
+Multiplication 2 finished in   7.41 s
+Multiplication 2 finished in   7.42 s
+Multiplication 2 finished in   7.38 s
+Multiplication 2 finished in   7.42 s
+Multiplication 2 finished in   7.42 s
+Multiplication 2 finished in   7.42 s
+Multiplication 2 finished in   7.42 s
+Multiplication 2 finished in   7.40 s
+Multiplication 2 finished in  27.74 s
+Multiplication 2 finished in  27.77 s
+Multiplication 2 finished in  27.82 s
+Multiplication 2 finished in  27.72 s
+Multiplication 2 finished in  27.75 s
+Multiplication 2 finished in  27.67 s
+Multiplication 2 finished in  27.77 s
+Multiplication 2 finished in  27.74 s
+Multiplication 2 finished in  27.74 s
+Multiplication 2 finished in  27.78 s
+Multiplication 2 finished in  67.35 s
+Multiplication 2 finished in  67.21 s
+Multiplication 2 finished in  67.29 s
+Multiplication 2 finished in  67.28 s
+Multiplication 2 finished in  67.16 s
+Multiplication 2 finished in  67.25 s
+Multiplication 2 finished in  67.35 s
+Multiplication 2 finished in  67.27 s
+Multiplication 2 finished in  67.26 s
+Multiplication 2 finished in  67.06 s
+Multiplication 2 finished in 132.14 s
+Multiplication 2 finished in 132.26 s
+Multiplication 2 finished in 132.23 s
+Multiplication 2 finished in 132.33 s
+Multiplication 2 finished in 132.14 s
+Multiplication 2 finished in 132.02 s
+Multiplication 2 finished in 132.14 s
+Multiplication 2 finished in 132.06 s
+Multiplication 2 finished in 132.26 s
+Multiplication 2 finished in 132.34 s
+Multiplication 2 finished in 227.71 s
+Multiplication 2 finished in 227.58 s
+Multiplication 2 finished in 227.11 s
+Multiplication 2 finished in 227.62 s
+Multiplication 2 finished in 227.66 s
+Multiplication 2 finished in 227.49 s
+Multiplication 2 finished in 227.58 s
+Multiplication 2 finished in 227.75 s
+Multiplication 2 finished in 227.31 s
+Multiplication 2 finished in 227.73 s
+Multiplication 2 finished in 361.11 s
+Multiplication 2 finished in 361.12 s
+Multiplication 2 finished in 359.74 s
+Multiplication 2 finished in 361.48 s
+Multiplication 2 finished in 360.79 s
+Multiplication 2 finished in 360.68 s
+Multiplication 2 finished in 361.04 s
+Multiplication 2 finished in 360.97 s
+Multiplication 2 finished in 361.00 s
+Multiplication 2 finished in 360.64 s
+Multiplication 2 finished in 541.44 s
+Multiplication 2 finished in 540.38 s
+Multiplication 2 finished in 541.87 s
+Multiplication 2 finished in 541.81 s
+Multiplication 2 finished in 537.32 s
+Multiplication 2 finished in 541.52 s
+Multiplication 2 finished in 541.92 s
+Multiplication 2 finished in 532.18 s
+Multiplication 2 finished in 541.74 s
+Multiplication 2 finished in 531.68 s
+Multiplication 2 finished in 771.57 s
+Multiplication 2 finished in 771.52 s
+Multiplication 2 finished in 772.03 s
+Multiplication 2 finished in 755.39 s
+Multiplication 2 finished in 771.61 s
+Multiplication 2 finished in 773.15 s
+Multiplication 2 finished in 771.66 s
+Multiplication 2 finished in 772.35 s
+Multiplication 2 finished in 769.58 s
+Multiplication 2 finished in 771.98 s
+Multiplication 2 finished in 1058.55 s
+Multiplication 2 finished in 1060.76 s
+Multiplication 2 finished in 1060.90 s
+Multiplication 2 finished in 1060.26 s
+Multiplication 2 finished in 1060.18 s
+Multiplication 2 finished in 1056.25 s
+Multiplication 2 finished in 1049.51 s
+Multiplication 2 finished in 1034.22 s
+Multiplication 2 finished in 1056.78 s
+Multiplication 2 finished in 1050.11 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.83 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   0.82 s
+Multiplication 2 finished in   7.36 s
+Multiplication 2 finished in   7.35 s
+Multiplication 2 finished in   7.38 s
+Multiplication 2 finished in   7.37 s
+Multiplication 2 finished in   7.36 s
+Multiplication 2 finished in   7.34 s
+Multiplication 2 finished in   7.36 s
+Multiplication 2 finished in   7.33 s
+Multiplication 2 finished in   7.34 s
+Multiplication 2 finished in   7.36 s
+Multiplication 2 finished in  27.28 s
+Multiplication 2 finished in  27.20 s
+Multiplication 2 finished in  27.22 s
+Multiplication 2 finished in  27.11 s
+Multiplication 2 finished in  27.22 s
+Multiplication 2 finished in  27.20 s
+Multiplication 2 finished in  27.21 s
+Multiplication 2 finished in  27.20 s
+Multiplication 2 finished in  27.15 s
+Multiplication 2 finished in  27.22 s
+Multiplication 2 finished in  66.86 s
+Multiplication 2 finished in  66.95 s
+Multiplication 2 finished in  67.03 s
+Multiplication 2 finished in  67.09 s
+Multiplication 2 finished in  67.05 s
+Multiplication 2 finished in  66.92 s
+Multiplication 2 finished in  66.91 s
+Multiplication 2 finished in  66.95 s
+Multiplication 2 finished in  66.96 s
+Multiplication 2 finished in  67.02 s
+Multiplication 2 finished in 131.83 s
+Multiplication 2 finished in 131.97 s
+Multiplication 2 finished in 131.90 s
+Multiplication 2 finished in 131.87 s
+Multiplication 2 finished in 132.03 s
+Multiplication 2 finished in 132.04 s
+Multiplication 2 finished in 131.41 s
+Multiplication 2 finished in 132.15 s
+Multiplication 2 finished in 132.12 s
+Multiplication 2 finished in 131.84 s
+Multiplication 2 finished in 227.57 s
+Multiplication 2 finished in 227.51 s
+Multiplication 2 finished in 227.26 s
+Multiplication 2 finished in 227.34 s
+Multiplication 2 finished in 225.16 s
+Multiplication 2 finished in 227.47 s
+Multiplication 2 finished in 227.39 s
+Multiplication 2 finished in 227.13 s
+Multiplication 2 finished in 227.50 s
+Multiplication 2 finished in 227.49 s
+Multiplication 2 finished in 357.51 s
+Multiplication 2 finished in 359.62 s
+Multiplication 2 finished in 359.56 s
+Multiplication 2 finished in 359.72 s
+Multiplication 2 finished in 359.55 s
+Multiplication 2 finished in 359.30 s
+Multiplication 2 finished in 359.76 s
+Multiplication 2 finished in 358.88 s
+Multiplication 2 finished in 359.45 s
+Multiplication 2 finished in 357.39 s
+Multiplication 2 finished in 539.45 s
+Multiplication 2 finished in 539.47 s
+Multiplication 2 finished in 539.93 s
+Multiplication 2 finished in 539.16 s
+Multiplication 2 finished in 539.00 s
+Multiplication 2 finished in 533.98 s
+Multiplication 2 finished in 536.27 s
+Multiplication 2 finished in 531.01 s
+Multiplication 2 finished in 539.20 s
+Multiplication 2 finished in 535.93 s
+Multiplication 2 finished in 765.19 s
+Multiplication 2 finished in 763.97 s
+Multiplication 2 finished in 766.65 s
+Multiplication 2 finished in 764.98 s
+Multiplication 2 finished in 765.93 s
+Multiplication 2 finished in 765.69 s
+Multiplication 2 finished in 749.99 s
+Multiplication 2 finished in 765.97 s
+Multiplication 2 finished in 755.97 s
+Multiplication 2 finished in 764.21 s
+Multiplication 2 finished in 1053.07 s
+Multiplication 2 finished in 1052.75 s
+Multiplication 2 finished in 1050.85 s
+Multiplication 2 finished in 1052.69 s
+Multiplication 2 finished in 1048.71 s
+Multiplication 2 finished in 1053.46 s
+Multiplication 2 finished in 1057.97 s
+Multiplication 2 finished in 1065.15 s
+Multiplication 2 finished in 1058.37 s
+Multiplication 2 finished in 1060.20 s
+My Multiplication finished in   0.15 s
+ 13.43 GIOPS
+My Multiplication finished in   0.15 s
+ 13.13 GIOPS
+My Multiplication finished in   0.14 s
+ 13.84 GIOPS
+My Multiplication finished in   0.14 s
+ 13.96 GIOPS
+My Multiplication finished in   0.14 s
+ 13.80 GIOPS
+My Multiplication finished in   0.16 s
+ 12.74 GIOPS
+My Multiplication finished in   0.15 s
+ 13.75 GIOPS
+My Multiplication finished in   0.14 s
+ 14.04 GIOPS
+My Multiplication finished in   0.15 s
+ 13.53 GIOPS
+My Multiplication finished in   0.15 s
+ 13.76 GIOPS
+My Multiplication finished in   1.19 s
+ 13.43 GIOPS
+My Multiplication finished in   1.21 s
+ 13.27 GIOPS
+My Multiplication finished in   1.20 s
+ 13.35 GIOPS
+My Multiplication finished in   1.21 s
+ 13.23 GIOPS
+My Multiplication finished in   1.21 s
+ 13.22 GIOPS
+My Multiplication finished in   1.19 s
+ 13.47 GIOPS
+My Multiplication finished in   1.20 s
+ 13.36 GIOPS
+My Multiplication finished in   1.21 s
+ 13.22 GIOPS
+My Multiplication finished in   1.20 s
+ 13.37 GIOPS
+My Multiplication finished in   1.21 s
+ 13.26 GIOPS
+My Multiplication finished in   3.95 s
+ 13.68 GIOPS
+My Multiplication finished in   3.98 s
+ 13.57 GIOPS
+My Multiplication finished in   3.97 s
+ 13.61 GIOPS
+My Multiplication finished in   3.87 s
+ 13.97 GIOPS
+My Multiplication finished in   3.93 s
+ 13.74 GIOPS
+My Multiplication finished in   3.97 s
+ 13.61 GIOPS
+My Multiplication finished in   3.97 s
+ 13.59 GIOPS
+My Multiplication finished in   3.95 s
+ 13.69 GIOPS
+My Multiplication finished in   3.93 s
+ 13.74 GIOPS
+My Multiplication finished in   3.96 s
+ 13.63 GIOPS
+My Multiplication finished in   9.64 s
+ 13.28 GIOPS
+My Multiplication finished in   9.51 s
+ 13.46 GIOPS
+My Multiplication finished in   9.57 s
+ 13.38 GIOPS
+My Multiplication finished in   9.49 s
+ 13.48 GIOPS
+My Multiplication finished in   9.56 s
+ 13.40 GIOPS
+My Multiplication finished in   9.56 s
+ 13.39 GIOPS
+My Multiplication finished in   9.38 s
+ 13.65 GIOPS
+My Multiplication finished in   9.50 s
+ 13.47 GIOPS
+My Multiplication finished in   9.41 s
+ 13.60 GIOPS
+My Multiplication finished in   9.46 s
+ 13.53 GIOPS
+My Multiplication finished in  19.44 s
+ 12.86 GIOPS
+My Multiplication finished in  19.34 s
+ 12.93 GIOPS
+My Multiplication finished in  19.25 s
+ 12.99 GIOPS
+My Multiplication finished in  19.33 s
+ 12.94 GIOPS
+My Multiplication finished in  19.01 s
+ 13.15 GIOPS
+My Multiplication finished in  19.36 s
+ 12.91 GIOPS
+My Multiplication finished in  19.38 s
+ 12.90 GIOPS
+My Multiplication finished in  19.61 s
+ 12.75 GIOPS
+My Multiplication finished in  19.36 s
+ 12.92 GIOPS
+My Multiplication finished in  19.10 s
+ 13.09 GIOPS
+My Multiplication finished in  35.77 s
+ 12.08 GIOPS
+My Multiplication finished in  35.74 s
+ 12.09 GIOPS
+My Multiplication finished in  35.67 s
+ 12.11 GIOPS
+My Multiplication finished in  35.68 s
+ 12.11 GIOPS
+My Multiplication finished in  35.38 s
+ 12.21 GIOPS
+My Multiplication finished in  35.06 s
+ 12.32 GIOPS
+My Multiplication finished in  35.19 s
+ 12.28 GIOPS
+My Multiplication finished in  35.10 s
+ 12.31 GIOPS
+My Multiplication finished in  35.13 s
+ 12.30 GIOPS
+My Multiplication finished in  35.10 s
+ 12.31 GIOPS
+My Multiplication finished in  60.60 s
+ 11.32 GIOPS
+My Multiplication finished in  59.53 s
+ 11.52 GIOPS
+My Multiplication finished in  59.01 s
+ 11.63 GIOPS
+My Multiplication finished in  58.67 s
+ 11.69 GIOPS
+My Multiplication finished in  58.85 s
+ 11.66 GIOPS
+My Multiplication finished in  59.89 s
+ 11.45 GIOPS
+My Multiplication finished in  59.97 s
+ 11.44 GIOPS
+My Multiplication finished in  61.36 s
+ 11.18 GIOPS
+My Multiplication finished in  62.61 s
+ 10.96 GIOPS
+My Multiplication finished in  61.40 s
+ 11.17 GIOPS
+My Multiplication finished in  94.73 s
+ 10.81 GIOPS
+My Multiplication finished in  93.75 s
+ 10.92 GIOPS
+My Multiplication finished in  94.10 s
+ 10.88 GIOPS
+My Multiplication finished in  92.65 s
+ 11.05 GIOPS
+My Multiplication finished in  90.86 s
+ 11.27 GIOPS
+My Multiplication finished in  90.31 s
+ 11.34 GIOPS
+My Multiplication finished in  90.58 s
+ 11.30 GIOPS
+My Multiplication finished in  90.54 s
+ 11.31 GIOPS
+My Multiplication finished in  91.16 s
+ 11.23 GIOPS
+My Multiplication finished in  90.64 s
+ 11.30 GIOPS
+My Multiplication finished in 133.30 s
+ 10.94 GIOPS
+My Multiplication finished in 139.54 s
+ 10.45 GIOPS
+My Multiplication finished in 134.34 s
+ 10.85 GIOPS
+My Multiplication finished in 141.15 s
+ 10.33 GIOPS
+My Multiplication finished in 133.00 s
+ 10.96 GIOPS
+My Multiplication finished in 140.83 s
+ 10.35 GIOPS
+My Multiplication finished in 133.16 s
+ 10.95 GIOPS
+My Multiplication finished in 140.34 s
+ 10.39 GIOPS
+My Multiplication finished in 133.06 s
+ 10.96 GIOPS
+My Multiplication finished in 139.92 s
+ 10.42 GIOPS
+My Multiplication finished in 193.81 s
+ 10.32 GIOPS
+My Multiplication finished in 193.48 s
+ 10.34 GIOPS
+My Multiplication finished in 191.37 s
+ 10.45 GIOPS
+My Multiplication finished in 190.38 s
+ 10.51 GIOPS
+My Multiplication finished in 190.85 s
+ 10.48 GIOPS
+My Multiplication finished in 190.94 s
+ 10.47 GIOPS
+My Multiplication finished in 193.60 s
+ 10.33 GIOPS
+My Multiplication finished in 190.11 s
+ 10.52 GIOPS
+My Multiplication finished in 195.12 s
+ 10.25 GIOPS
+My Multiplication finished in 195.50 s
+ 10.23 GIOPS
+846.53 msec task-clock
+4      context-switches
+1      cpu-migrations
+5,924      page-faults
+3,193,342,314      cycles
+8,138,614,001      instructions
+1,009,791,705      branches
+1,018,755      branch-misses
+1,978,260,167      L1-dcache-loads
+124,803,710      L1-dcache-load-misses
+1,267,233      LLC-loads
+98,897      LLC-load-misses
+2,018,421,467      dTLB-loads
+1,039,942      dTLB-load-misses
+886      iTLB-loads
+1,703      iTLB-load-misses
+7,451.77 msec task-clock
+18      context-switches
+0      cpu-migrations
+23,501      page-faults
+28,614,755,303      cycles
+64,219,793,244      instructions
+8,022,756,060      branches
+4,058,425      branch-misses
+15,996,768,132      L1-dcache-loads
+1,052,763,701      L1-dcache-load-misses
+9,054,213      LLC-loads
+4,711,341      LLC-load-misses
+16,067,180,844      dTLB-loads
+4,136,244      dTLB-load-misses
+4,615      iTLB-loads
+71,413      iTLB-load-misses
+27,874.32 msec task-clock
+36      context-switches
+0      cpu-migrations
+52,797      page-faults
+106,900,643,589      cycles
+216,388,747,967      instructions
+27,066,429,874      branches
+9,191,127      branch-misses
+54,067,512,069      L1-dcache-loads
+6,800,765,815      L1-dcache-load-misses
+46,552,438      LLC-loads
+40,223,921      LLC-load-misses
+54,146,277,235      dTLB-loads
+9,655,296      dTLB-load-misses
+21,886      iTLB-loads
+190,172      iTLB-load-misses
+67,193.23 msec task-clock
+103      context-switches
+1      cpu-migrations
+93,816      page-faults
+259,007,749,233      cycles
+513,619,463,844      instructions
+64,272,918,563      branches
+16,471,443      branch-misses
+128,313,911,838      L1-dcache-loads
+16,152,721,270      L1-dcache-load-misses
+129,516,074      LLC-loads
+114,147,406      LLC-load-misses
+128,422,406,737      dTLB-loads
+17,767,020      dTLB-load-misses
+134,432      iTLB-loads
+190,593      iTLB-load-misses
+132,560.79 msec task-clock
+163      context-switches
+0      cpu-migrations
+146,550      page-faults
+508,350,519,410      cycles
+1,004,114,427,565      instructions
+125,745,774,994      branches
+25,748,761      branch-misses
+250,970,293,063      L1-dcache-loads
+31,536,253,561      L1-dcache-load-misses
+294,262,620      LLC-loads
+262,150,733      LLC-load-misses
+250,859,297,934      dTLB-loads
+29,420,936      dTLB-load-misses
+97,817      iTLB-loads
+653,284      iTLB-load-misses
+228,050.69 msec task-clock
+336      context-switches
+2      cpu-migrations
+211,001      page-faults
+875,727,206,430      cycles
+1,739,554,595,902      instructions
+218,116,249,066      branches
+37,493,517      branch-misses
+434,606,831,158      L1-dcache-loads
+54,565,412,215      L1-dcache-load-misses
+546,561,197      LLC-loads
+477,518,921      LLC-load-misses
+434,686,780,521      dTLB-loads
+44,654,776      dTLB-load-misses
+218,199      iTLB-loads
+727,548      iTLB-load-misses
+361,042.36 msec task-clock
+584      context-switches
+6      cpu-migrations
+287,175      page-faults
+1,387,545,076,660      cycles
+2,764,447,487,660      instructions
+346,723,313,629      branches
+51,336,440      branch-misses
+690,436,918,708      L1-dcache-loads
+86,592,083,231      L1-dcache-load-misses
+876,187,682      LLC-loads
+759,810,095      LLC-load-misses
+690,723,655,562      dTLB-loads
+63,024,783      dTLB-load-misses
+376,500      iTLB-loads
+1,598,949      iTLB-load-misses
+532,206.79 msec task-clock
+766      context-switches
+3      cpu-migrations
+375,514      page-faults
+2,042,941,837,647      cycles
+4,108,380,735,501      instructions
+514,227,745,161      branches
+66,580,646      branch-misses
+1,026,829,561,534      L1-dcache-loads
+129,334,827,531      L1-dcache-load-misses
+1,067,100,434      LLC-loads
+949,986,371      LLC-load-misses
+1,026,925,900,087      dTLB-loads
+75,277,301      dTLB-load-misses
+457,623      iTLB-loads
+2,207,374      iTLB-load-misses
+772,647.71 msec task-clock
+990      context-switches
+2      cpu-migrations
+474,676      page-faults
+2,964,565,114,024      cycles
+5,892,799,031,330      instructions
+740,280,666,473      branches
+86,194,428      branch-misses
+1,471,783,735,866      L1-dcache-loads
+184,406,507,225      L1-dcache-load-misses
+2,039,667,735      LLC-loads
+1,706,421,818      LLC-load-misses
+1,472,077,716,588      dTLB-loads
+118,328,449      dTLB-load-misses
+593,431      iTLB-loads
+3,149,162      iTLB-load-misses
+1,050,890.87 msec task-clock
+1,037      context-switches
+206      cpu-migrations
+586,514      page-faults
+4,056,343,593,481      cycles
+8,073,732,377,126      instructions
+1,013,082,473,363      branches
+105,966,917      branch-misses
+2,016,265,721,078      L1-dcache-loads
+252,703,571,734      L1-dcache-load-misses
+2,599,357,621      LLC-loads
+2,322,793,951      LLC-load-misses
+2,013,497,793,904      dTLB-loads
+144,238,003      dTLB-load-misses
+418,803      iTLB-loads
+2,152,012      iTLB-load-misses
+832.66 msec task-clock
+4      context-switches
+0      cpu-migrations
+5,924      page-faults
+3,182,782,432      cycles
+8,109,409,684      instructions
+1,004,259,550      branches
+1,013,269      branch-misses
+1,960,837,235      L1-dcache-loads
+124,758,597      L1-dcache-load-misses
+1,221,318      LLC-loads
+65,691      LLC-load-misses
+2,025,709,538      dTLB-loads
+1,045,793      dTLB-load-misses
+351      iTLB-loads
+1,815      iTLB-load-misses
+7,414.30 msec task-clock
+18      context-switches
+3      cpu-migrations
+23,499      page-faults
+28,511,192,189      cycles
+64,168,625,741      instructions
+8,019,566,101      branches
+4,055,044      branch-misses
+16,012,352,092      L1-dcache-loads
+1,055,398,145      L1-dcache-load-misses
+8,695,461      LLC-loads
+4,731,219      LLC-load-misses
+16,030,315,217      dTLB-loads
+4,125,963      dTLB-load-misses
+4,527      iTLB-loads
+73,510      iTLB-load-misses
+27,308.88 msec task-clock
+32      context-switches
+5      cpu-migrations
+52,800      page-faults
+105,355,872,167      cycles
+216,490,255,923      instructions
+27,065,833,966      branches
+9,178,448      branch-misses
+54,055,992,908      L1-dcache-loads
+6,796,159,914      L1-dcache-load-misses
+48,105,905      LLC-loads
+42,011,626      LLC-load-misses
+54,139,908,294      dTLB-loads
+9,694,635      dTLB-load-misses
+18,129      iTLB-loads
+155,005      iTLB-load-misses
+67,172.44 msec task-clock
+62      context-switches
+11      cpu-migrations
+93,816      page-faults
+259,430,130,637      cycles
+513,750,995,290      instructions
+64,291,002,568      branches
+16,364,465      branch-misses
+128,359,348,934      L1-dcache-loads
+16,164,498,990      L1-dcache-load-misses
+128,755,299      LLC-loads
+114,975,892      LLC-load-misses
+128,375,363,842      dTLB-loads
+17,778,078      dTLB-load-misses
+24,357      iTLB-loads
+305,320      iTLB-load-misses
+132,061.37 msec task-clock
+162      context-switches
+18      cpu-migrations
+146,550      page-faults
+509,759,329,967      cycles
+1,004,335,866,265      instructions
+125,781,928,351      branches
+25,670,405      branch-misses
+251,137,289,922      L1-dcache-loads
+31,542,786,437      L1-dcache-load-misses
+296,478,769      LLC-loads
+267,021,293      LLC-load-misses
+250,814,205,779      dTLB-loads
+29,325,000      dTLB-load-misses
+56,484      iTLB-loads
+555,034      iTLB-load-misses
+227,797.23 msec task-clock
+258      context-switches
+51      cpu-migrations
+211,002      page-faults
+879,345,062,786      cycles
+1,739,761,865,526      instructions
+218,143,437,921      branches
+37,355,665      branch-misses
+434,616,629,426      L1-dcache-loads
+54,575,868,994      L1-dcache-load-misses
+555,017,184      LLC-loads
+489,281,103      LLC-load-misses
+434,598,012,016      dTLB-loads
+44,889,071      dTLB-load-misses
+97,154      iTLB-loads
+910,004      iTLB-load-misses
+357,789.32 msec task-clock
+716      context-switches
+2      cpu-migrations
+288,711      page-faults
+1,383,706,642,839      cycles
+2,760,038,487,694      instructions
+345,850,031,502      branches
+50,889,761      branch-misses
+689,236,292,061      L1-dcache-loads
+86,457,537,024      L1-dcache-load-misses
+836,079,092      LLC-loads
+737,545,526      LLC-load-misses
+689,778,207,586      dTLB-loads
+60,781,173      dTLB-load-misses
+107,957      iTLB-loads
+860,881      iTLB-load-misses
+536,442.38 msec task-clock
+1,209      context-switches
+1      cpu-migrations
+375,578      page-faults
+2,071,286,956,611      cycles
+4,127,290,455,173      instructions
+517,706,780,354      branches
+66,900,566      branch-misses
+1,030,963,899,957      L1-dcache-loads
+129,765,761,259      L1-dcache-load-misses
+1,251,462,731      LLC-loads
+1,077,225,746      LLC-load-misses
+1,030,620,210,889      dTLB-loads
+84,071,102      dTLB-load-misses
+229,941      iTLB-loads
+1,974,822      iTLB-load-misses
+764,862.99 msec task-clock
+1,713      context-switches
+2      cpu-migrations
+475,188      page-faults
+2,964,640,015,897      cycles
+5,889,619,755,929      instructions
+739,531,632,272      branches
+85,529,646      branch-misses
+1,470,825,940,186      L1-dcache-loads
+184,281,325,469      L1-dcache-load-misses
+2,020,178,922      LLC-loads
+1,707,896,244      LLC-load-misses
+1,470,810,809,775      dTLB-loads
+116,036,266      dTLB-load-misses
+143,120      iTLB-loads
+2,664,788      iTLB-load-misses
+1,061,038.03 msec task-clock
+1,641      context-switches
+37      cpu-migrations
+586,819      page-faults
+4,032,021,892,632      cycles
+8,037,582,997,713      instructions
+1,007,005,609,131      branches
+106,177,337      branch-misses
+2,008,698,036,377      L1-dcache-loads
+252,034,849,905      L1-dcache-load-misses
+2,248,936,570      LLC-loads
+2,100,323,645      LLC-load-misses
+2,009,236,282,210      dTLB-loads
+131,159,162      dTLB-load-misses
+1,715,947      iTLB-loads
+4,203,216      iTLB-load-misses
+154.26 msec task-clock
+3      context-switches
+0      cpu-migrations
+7,878      page-faults
+517,486,216      cycles
+463,553,891      instructions
+27,873,228      branches
+147,944      branch-misses
+141,971,017      L1-dcache-loads
+131,182,944      L1-dcache-load-misses
+2,654,011      LLC-loads
+3,030      LLC-load-misses
+155,016,136      dTLB-loads
+1,855      dTLB-load-misses
+1,112      iTLB-loads
+5,721      iTLB-load-misses
+1,253.07 msec task-clock
+7      context-switches
+0      cpu-migrations
+31,317      page-faults
+4,194,746,920      cycles
+3,434,269,097      instructions
+157,291,397      branches
+569,555      branch-misses
+1,161,249,105      L1-dcache-loads
+1,132,525,854      L1-dcache-load-misses
+76,775,415      LLC-loads
+61,458      LLC-load-misses
+1,178,087,959      dTLB-loads
+44,423      dTLB-load-misses
+7,584      iTLB-loads
+82,515      iTLB-load-misses
+4,061.17 msec task-clock
+10      context-switches
+1      cpu-migrations
+70,384      page-faults
+14,055,648,468      cycles
+11,404,352,753      instructions
+499,973,920      branches
+1,269,685      branch-misses
+3,889,342,451      L1-dcache-loads
+3,819,170,107      L1-dcache-load-misses
+274,927,276      LLC-loads
+1,005,597      LLC-load-misses
+3,898,915,270      dTLB-loads
+1,138,744      dTLB-load-misses
+7,547      iTLB-loads
+21,663      iTLB-load-misses
+9,606.84 msec task-clock
+32      context-switches
+1      cpu-migrations
+125,073      page-faults
+33,431,181,300      cycles
+26,765,499,736      instructions
+1,116,735,317      branches
+2,220,426      branch-misses
+9,186,455,738      L1-dcache-loads
+9,010,497,677      L1-dcache-load-misses
+569,671,966      LLC-loads
+12,214,614      LLC-load-misses
+9,225,146,250      dTLB-loads
+8,007,260      dTLB-load-misses
+12,067      iTLB-loads
+107,771      iTLB-load-misses
+19,330.89 msec task-clock
+38      context-switches
+2      cpu-migrations
+195,388      page-faults
+68,587,519,618      cycles
+52,201,117,985      instructions
+2,248,186,500      branches
+3,475,869      branch-misses
+17,972,494,592      L1-dcache-loads
+17,693,626,588      L1-dcache-load-misses
+690,046,189      LLC-loads
+111,322,015      LLC-load-misses
+18,002,264,462      dTLB-loads
+5,092,877      dTLB-load-misses
+34,246      iTLB-loads
+468,357      iTLB-load-misses
+35,421.16 msec task-clock
+89      context-switches
+1      cpu-migrations
+281,324      page-faults
+128,586,466,646      cycles
+90,662,860,075      instructions
+3,884,946,069      branches
+5,082,761      branch-misses
+31,096,734,880      L1-dcache-loads
+30,467,456,612      L1-dcache-load-misses
+1,052,837,341      LLC-loads
+589,501,300      LLC-load-misses
+31,103,621,105      dTLB-loads
+14,463,875      dTLB-load-misses
+51,075      iTLB-loads
+642,023      iTLB-load-misses
+61,825.69 msec task-clock
+148      context-switches
+2      cpu-migrations
+382,890      page-faults
+216,870,007,574      cycles
+144,800,598,994      instructions
+6,321,842,580      branches
+7,084,810      branch-misses
+49,533,523,311      L1-dcache-loads
+48,519,674,126      L1-dcache-load-misses
+2,070,497,196      LLC-loads
+1,692,029,373      LLC-load-misses
+49,512,652,576      dTLB-loads
+14,459,689      dTLB-load-misses
+116,633      iTLB-loads
+225,152      iTLB-load-misses
+91,190.78 msec task-clock
+244      context-switches
+1      cpu-migrations
+500,080      page-faults
+331,328,612,956      cycles
+216,403,160,246      instructions
+9,493,304,752      branches
+9,025,758      branch-misses
+73,995,619,579      L1-dcache-loads
+72,340,429,046      L1-dcache-load-misses
+3,449,483,138      LLC-loads
+2,896,393,363      LLC-load-misses
+73,991,419,754      dTLB-loads
+4,918,519      dTLB-load-misses
+113,588      iTLB-loads
+1,254,396      iTLB-load-misses
+140,617.62 msec task-clock
+358      context-switches
+0      cpu-migrations
+632,896      page-faults
+507,667,825,559      cycles
+309,306,536,344      instructions
+13,995,788,228      branches
+11,714,949      branch-misses
+105,579,144,082      L1-dcache-loads
+103,143,298,975      L1-dcache-load-misses
+7,255,212,018      LLC-loads
+4,878,234,572      LLC-load-misses
+105,580,673,171      dTLB-loads
+31,874,276      dTLB-load-misses
+141,733      iTLB-loads
+1,773,816      iTLB-load-misses
+196,346.17 msec task-clock
+495      context-switches
+5      cpu-migrations
+781,332      page-faults
+708,018,371,680      cycles
+423,388,743,161      instructions
+18,730,992,652      branches
+14,634,532      branch-misses
+144,647,749,095      L1-dcache-loads
+141,202,726,844      L1-dcache-load-misses
+9,200,481,754      LLC-loads
+7,756,936,687      LLC-load-misses
+144,714,295,361      dTLB-loads
+71,055,835      dTLB-load-misses
+248,341      iTLB-loads
+1,365,575      iTLB-load-misses
